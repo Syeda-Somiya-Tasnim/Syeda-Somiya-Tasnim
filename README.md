@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasnim</h1>
-<h3 align="center">I am a Computer Science graduate with a passion for ensuring top-notch software quality. Currently honing my skills in software quality testing, I'm on a mission to contribute to the seamless functioning of software systems. I believe in the power of meticulous testing to deliver robust and reliable software solutions. I am excited to collaborate and learn from the vibrant tech community here on GitHub!</h3>
+<h3 align="center">I am a Computer Science graduate passionate about ensuring top-notch software quality. Currently honing my skills in software quality testing, I'm on a mission to contribute to the seamless functioning of software systems. I believe in the power of meticulous testing to deliver robust and reliable software solutions. I am excited to collaborate and learn from the vibrant tech community here on GitHub!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syeda-somiya-tasnim" alt="syeda-somiya-tasnim" /></a> </p>
 
